@@ -4,7 +4,7 @@ Web based application that utilizes weather API and Google Maps API to list diff
 
 ### Getting Started
 
-Checkout this repo, install dependencies, then start the gulp process with the following:
+Checkout this repo, install dependencies, start the application by opening up Terminal and running the following commands:
 
 ```
 > git clone https://github.com/bryanmiller89/react-weather
@@ -12,3 +12,5 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 > npm install
 > npm start
 ```
+
+Access localhost:8080 in your web browser to sample the application.
